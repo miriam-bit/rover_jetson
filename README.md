@@ -3,7 +3,6 @@
 Progetto ROS 2 per il rover **MIVIA** basato su piattaforma NVIDIA Jetson.  
 Questa repository contiene:
 - I nodi ROS 2 sviluppati per il rover
-- File di avvio (`launch/`)
 - Submodule Git per pacchetti ROS 2 esterni necessari al progetto (es. `ros2_socketcan`)
 
 ---
