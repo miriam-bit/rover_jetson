@@ -1,0 +1,12 @@
+[submodule "src/dwm1001_ros2"]
+	path = src/dwm1001_ros2
+	url = https://github.com/the-hive-lab/dwm1001_ros2.git
+[submodule "src/pydwm1001"]
+	path = src/pydwm1001
+	url = https://github.com/the-hive-lab/pydwm1001.git
+[submodule "src/joystick_drivers"]
+	path = src/joystick_drivers
+	url = https://github.com/ros-drivers/joystick_drivers.git
+[submodule "src/ros2_socketcan"]
+	path = src/ros2_socketcan
+	url = https://github.com/autowarefoundation/ros2_socketcan.git
