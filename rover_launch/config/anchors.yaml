@@ -1,4 +1,0 @@
-anchor_visualizer:
-  ros__parameters:
-    initiator_anchor_position: "0.0,0.0,0.0"
-    anchor_positions: "3.52,0.0,0.0;3.56,1.84,0.0;0.0,1.70,0.0"
