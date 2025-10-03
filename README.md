@@ -1,4 +1,4 @@
-# MIVIA_ROVER_JETSON
+# rover_jetson
 
 Progetto ROS 2 per il rover **MIVIA** basato su piattaforma NVIDIA Jetson.  
 Questa repository contiene:
