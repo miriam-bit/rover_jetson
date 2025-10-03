@@ -16,8 +16,11 @@ setup(
         # Installa il package.xml
         ('share/' + package_name, ['package.xml']),
 
-        # ✅ Installa tutti i file .launch.py nella cartella launch/
+        #  Installa tutti i file .launch.py nella cartella launch/
         (os.path.join('share', package_name, 'launch'), glob('launch/*.launch.py')),
+        
+        #  Installa tutti i file .yaml nella cartella config/
+        (os.path.join('share', package_name, 'config'), glob('config/*.yaml')),
     ],
     install_requires=['setuptools'],
     zip_safe=True,
