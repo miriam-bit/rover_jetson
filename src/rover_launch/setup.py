@@ -9,7 +9,6 @@ setup(
     version='0.0.0',
     packages=find_packages(exclude=['test']),
     data_files=[
-        # Necessario per ROS 2
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
 
